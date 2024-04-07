@@ -1,0 +1,48 @@
+{
+	"class_names" : 
+	[
+		"true",
+		"false"
+	],
+	"feature_names" : 
+	[
+		"trip_start_year",
+		"trip_start_hour",
+		"trip_end_year",
+		"trip_end_hour",
+		"trip_seconds",
+		"trip_miles",
+		"pickup_community_area",
+		"dropoff_community_area",
+		"ln_fare",
+		"tolls",
+		"extras",
+		"payment_type"
+	],
+	"features" : 
+	{
+		"dropoff_community_area" : 
+		{
+			"encode_type" : "ohe"
+		},
+		"extras" : {},
+		"ln_fare" : {},
+		"payment_type" : 
+		{
+			"encode_type" : "ohe"
+		},
+		"pickup_community_area" : 
+		{
+			"encode_type" : "ohe"
+		},
+		"tolls" : {},
+		"trip_end_hour" : {},
+		"trip_end_year" : {},
+		"trip_miles" : {},
+		"trip_seconds" : {},
+		"trip_start_hour" : {},
+		"trip_start_year" : {}
+	},
+	"label_col" : "label",
+	"model_type" : "boosted_tree_classifier"
+}

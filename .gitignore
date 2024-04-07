@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+.dist
+/.dist
+/dist
+.venv/Lib
+.Lib
+/.Lib
+/.venv
+/.idea
+.idea/misc.xml
+.idea/workspace.xml

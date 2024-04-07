@@ -1,0 +1,12 @@
+_null_filler
+Cash
+Credit Card
+Dispute
+Mobile
+No Charge
+Pcard
+Prcard
+Prepaid
+Split
+Unknown
+Way2ride

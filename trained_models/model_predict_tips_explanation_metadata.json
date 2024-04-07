@@ -1,0 +1,22 @@
+{
+	"framework" : "custom_container",
+	"inputs" : 
+	{
+		"dropoff_community_area" : {},
+		"extras" : {},
+		"ln_fare" : {},
+		"payment_type" : {},
+		"pickup_community_area" : {},
+		"tolls" : {},
+		"trip_end_hour" : {},
+		"trip_end_year" : {},
+		"trip_miles" : {},
+		"trip_seconds" : {},
+		"trip_start_hour" : {},
+		"trip_start_year" : {}
+	},
+	"outputs" : 
+	{
+		"label_probs" : {}
+	}
+}
